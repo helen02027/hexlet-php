@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/hello-world",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elena Kilyanova",
+            "email": "helen02027@gmail.com"
+        }
+    ],
+    "require": {}
+}
